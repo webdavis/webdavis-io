@@ -1,0 +1,5 @@
+# Vim swap files.
+.sw*
+
+# Mac OS Finder metadata.
+.DS_Store
