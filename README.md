@@ -1,5 +1,5 @@
 # webdavis.io
 
-Hi! I'm Stephen Davis, and I'm an iOS developer.
+Hey there, I'm Stephen! I'm a software developer specializing in iOS.
 
-This repo tracks my personal personal website.
+This repo tracks my personal website.
